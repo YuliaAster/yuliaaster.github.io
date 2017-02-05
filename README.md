@@ -1,2 +1,0 @@
-# yuliaaster.github.io
-personalwebsite
